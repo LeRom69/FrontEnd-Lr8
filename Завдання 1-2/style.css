@@ -1,0 +1,57 @@
+
+/*1*/
+
+.clock {
+    margin: 20px;
+    font-size: 44px;
+    background-color: rgb(122 0 165);
+    padding: 19px;
+    width: 158px;
+    color: white;
+    border-radius: 9px;
+    outline: 5px dashed white;
+    outline-offset: -13px;
+}
+
+/*2*/
+
+.timer-container {
+    display: inline-block;
+    margin: 15px;
+    background-color: #c3bad7;
+    width: 310px;
+    padding: 10px 1px 10px 17px;
+    border-radius: 10px;
+}
+
+.timer {
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-left: 90px;
+}
+
+.btn {
+    margin: 10px 10px 0 0;
+    font-size: 18px;
+    background-color: rgb(122 0 165);
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+    outline: 2px dashed white;
+    outline-offset: -6px;
+}
+
+.btn:hover{
+    background-color: rgb(88, 0, 120);
+}
+
+.btn:active{
+    background-color: rgb(0, 0, 0);
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+

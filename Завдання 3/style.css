@@ -1,0 +1,16 @@
+.i-s1 {
+    width: 748px;
+    height: 292px;
+  }
+  
+  .i-s1 img{
+    width: 748px;
+    height: 292px;
+    position: absolute;
+    transition: all ease 1s;
+  }
+  
+  .i-s1 .opacity0{
+    opacity: 0;
+  }
+  
